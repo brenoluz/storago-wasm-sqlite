@@ -1,0 +1,1 @@
+export { SqliteWasmAdapter } from './adapter';
